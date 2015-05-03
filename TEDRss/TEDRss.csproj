@@ -60,6 +60,13 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-08-04.png" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-08-18.png" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-08-28.png" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-08-39.png" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-08-52.png" />
+    <None Include="Screenshots\Screenshot_2015-05-03-10-21-12.png" />
+    <None Include="Apk\TEDRss.TEDRss.apk" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
@@ -73,4 +80,8 @@
     <AndroidResource Include="Resources\layout\RssEntry.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Screenshots\" />
+    <Folder Include="Apk\" />
+  </ItemGroup>
 </Project>
