@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="main_activity_title">Лента видео TED.COM</string>
+	<string name="video_activity_title">Просмотр видео</string>
+	<string name="error_internet_connection">Нет подключения к интернету</string>
+	<string name="getting_info">Получение информации</string>
+	<string name="error_getting_info">Ошибка получения информации</string>
+</resources>
